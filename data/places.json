@@ -33,5 +33,40 @@
     "description": "Popular beach area with cafes and restaurants.",
     "category": "Tourist",
     "city": "Chennai"
+  },
+  {
+    "id":"6",
+    "name":"Dakshin Restaurant",
+    "description":"Authentic South Indian food",
+    "category":"Restaurant",
+    "city":"Chennai"
+  },
+  {
+    "id":"7",
+    "name":"Toscano",
+    "description":"Italian restaurant",
+    "category":"Restaurant",
+    "city":"Chennai"
+  },
+  {
+    "id":"8",
+    "name":"Government Museum",
+    "description":"Historic museum",
+    "category":"Heritage",
+    "city":"Chennai"
+  },
+  {
+    "id":"9",
+    "name":"Phoenix MarketCity",
+    "description":"Modern shopping mall",
+    "category":"Shopping",
+    "city":"Chennai"
+  },
+  {
+    "id":"10",
+    "name":"Semmozhi Poonga",
+    "description":"Botanical garden",
+    "category":"Park",
+    "city":"Chennai"
   }
 ]
