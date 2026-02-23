@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Kapaleeshwarar Temple",
+    "description": "Historic Hindu temple dedicated to Lord Shiva in Mylapore.",
+    "category": "Heritage",
+    "city": "Chennai"
+  },
+  {
+    "id": "2",
+    "name": "Marina Beach",
+    "description": "One of the longest urban beaches in the world.",
+    "category": "Tourist",
+    "city": "Chennai"
+  },
+  {
+    "id": "3",
+    "name": "Little Italy",
+    "description": "Vegetarian Italian restaurant serving authentic pasta and pizza.",
+    "category": "Restaurant",
+    "city": "Chennai"
+  },
+  {
+    "id": "4",
+    "name": "Fort St George",
+    "description": "Historic British-era fort and museum.",
+    "category": "Heritage",
+    "city": "Chennai"
+  },
+  {
+    "id": "5",
+    "name": "Besant Nagar Beach",
+    "description": "Popular beach area with cafes and restaurants.",
+    "category": "Tourist",
+    "city": "Chennai"
+  }
+]
